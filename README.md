@@ -67,6 +67,6 @@ With a work breakdown estimate of the following
 1. Hugo L. and Pedro F. - Development of reporting guidelines and evaluation criteria
 1. ? - Deployment of simulator
 1. ? - Collection of reports from students
-    - This one is just 
+    - This one is mostly operational and does not require any technical knowledge. It will be maintaining a google drive folder and keeping tabs on who submitted what. 
 1. ? - Calculating the `roc_auc_score` of each of the student models
 1. As many of us as possible - Grading the reports
