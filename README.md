@@ -6,9 +6,11 @@ This capstone project is meant to *individually* test students for the following
 - Their ability to do basic EDA
 - Their ability to train and evaluate a predictive model
 - Their ability to professionally communicate their findings
+    - This will be done via professional reports that are more important the the trained model itself
 - Their ability to understand the paradigm of providing predictions on unseen data
     - Robustness to unseen data that could be quite dirty
     - Providing predictions over time rather than kaggle-style all at once
+- Their ability to make decision on which technical tools to use considering the problem in hands.
 
 This is quite different from the previous specializations because they will not be able to submit as many times as they want nor work in teams where they can mask an understanding of the material by brute-forcing search or blending into a crowd. 
 
