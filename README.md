@@ -48,26 +48,26 @@ With the following additional requirements
 
 For `X_test_1`, the flow will happen in this order for an example observation:
 
-1. Observation #1 arrives with all features needed to provide a prediction arrives at your server
-1. Your server will store the observation in your database
-1. Your server must return a predction between 0 and 1 for observation #1
-1. Some time later, the true outcome for observation #1 will arrive at your server
+1. Observation #1 arrives with all features needed to provide a prediction arrives at the student server
+1. The student server will store the observation in your database
+1. The student server must return a predction between 0 and 1 for observation #1
+1. Some time later, the true outcome for observation #1 will arrive at the student server
     - This true outcome taken from `y_test_1` for observation #1
-1. Your server will store the true outcome for observation #1 in the database
+1. The student server will store the true outcome for observation #1 in the database
 
 #### X_test_2
 
 For `X_test_2`, the flow will happen in this order for an example observation:
 
 1. Observation #5000 arrives with all features needed to provide a prediction
-1. Your server will store the observation in your database
-1. Your server must return a predction between 0 and 1 for observation #5000
+1. The student server will store the observation in your database
+1. The student server must return a predction between 0 and 1 for observation #5000
 
 #### Upshots
 
-Notice that for `X_test_1` and `X_test_2` you are essentially expanding your training sets. If you are expanding your training sets, that means that you can train and deploy another model that has had the benefit of seeing more data. You will need to use some judgement about when and how often to do this though because you are messing with production systems and the more you do this, the more chances there is for something to go wrong!
+Notice that for `X_test_1` and `X_test_2` you are essentially expanding the training set. If the training set is expanded, it means that it is possible to train and deploy another model that has had the benefit of seeing more data. It will require some judgement about when and how often to do this though because it involves messing with production systems and the more one does this, the more chances there are for something to go wrong!
 
-Also, it's quite important to make sure that you're recording every piece of data that comes into the server. This is VERY important for the second report because you'll need to analyze what kind of data showed up after you deployed your initial model and wrote the report for that.
+Also, it's quite important to make sure that the students are recording every piece of data that comes into the server. This is VERY important for the second report because they will need to analyze what kind of data showed up after they deployed the initial model and wrote the report for that.
 
 ### The reports
 
