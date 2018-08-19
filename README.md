@@ -56,7 +56,7 @@ In order to do this we must have clear guidelines for the reports that are clear
 
 Taken from [this spreadsheet](https://docs.google.com/spreadsheets/d/1XPbv9QSuy0nsCJUU6aKg7kTma_dRmQkZ1B1N-igvLZE/edit?usp=sharing), here is a breakdown of what components of the capstone will be covered on which days:
 
-<img src="https://files.slack.com/files-pri/TABQ1CSSJ-FC722CGJH/image.png">
+<img src="https://i.imgur.com/kDgnroH.png">
 
 With a work breakdown estimate of the following
 
