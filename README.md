@@ -61,7 +61,7 @@ sure that you aren't taking up any precious space for when we actually start the
 
 
 
-## Batch 2 Capstone Project
+# Capstone Project Structure and Schedule
 
 This capstone project is meant to *individually* test students for the following:
 
