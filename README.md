@@ -159,5 +159,5 @@ sure that you aren't taking up any precious space for when we actually start the
 
 ### Onece more
 
-[Here is a link to the report](https://docs.google.com/document/d/1cF65SxybGCo761LohjX4Sc51bwliFm4Shwx3mv7UAhM/edit?usp=sharing)
+[Here is a link to the report guidelines](https://docs.google.com/document/d/1cF65SxybGCo761LohjX4Sc51bwliFm4Shwx3mv7UAhM/edit?usp=sharing)
 
