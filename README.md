@@ -6,7 +6,7 @@ This capstone project is meant to *individually* test students for the following
 - Their ability to do basic EDA
 - Their ability to train and evaluate a predictive model
 - Their ability to professionally communicate their findings
-    - This will be done via professional reports that are more important the the trained model itself
+    - This will be done via [professional reports](https://docs.google.com/document/d/1cF65SxybGCo761LohjX4Sc51bwliFm4Shwx3mv7UAhM/edit?usp=sharing) that are more important the the trained model itself
 - Their ability to understand the paradigm of providing predictions on unseen data
     - Robustness to unseen data that could be quite dirty
     - Providing predictions over time rather than kaggle-style all at once
@@ -77,7 +77,7 @@ Both reports should be professional quality. This means that in order to receive
 
 God willing, by the time we finish, we will have 30-40 more students that have submitted all material that must be graded quickly and with quality. By quickly I mean that it cannot take too much time per report because of limited instructor hours. By quality I mean it must be harsh but fair since we cannot certify anyone that does not deserve it while at the same time making sure that there are no surprises for the students.
 
-In order to do this we must have clear guidelines for the reports that are clearly communicated to both the students and the instructors. We must also derive a simple and efficient grading rubric from these guidelines that allow instructors to quickly evaluate all of the material.
+In order to do this [have clear guidelines](https://docs.google.com/spreadsheets/d/1K8X7xNIi7CKIjtO2bEqWKxMhrRLKBYAHDJGwrg2cwjo/edit?usp=sharing) for the reports that are clearly communicated to both the students and the instructors. We must also derive a simple and efficient grading rubric from these guidelines that allow instructors to quickly evaluate all of the material.
 
 ## Schedule
 
@@ -156,4 +156,8 @@ python test-server.py "final_datasets/X_train.csv" "https://deployed-model.herok
 
 You only have 10K rows on the free tier of heroku so after testing, you will want to clear out your database to make
 sure that you aren't taking up any precious space for when we actually start the simulator!
+
+### Onece more
+
+[Here is a link to the report](https://docs.google.com/document/d/1cF65SxybGCo761LohjX4Sc51bwliFm4Shwx3mv7UAhM/edit?usp=sharing)
 
