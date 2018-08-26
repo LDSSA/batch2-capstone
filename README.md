@@ -100,27 +100,27 @@ With a work breakdown estimate of the following
 1. ? - Calculating the `roc_auc_score` of each of the student models
 1. As many of us as possible - Grading the reports
 
-# Brief
+# Brief - Predicting vehicle crash survival
 
-## Predicting vehicle crash survival
+It's 2028, and you are on a new assignment with a new client called Insurance Inc.  
 
-In this dataset, you are given a set of features that are known about a scenario for a particular person in the moments
-before a car crash occurs. Imagine that you are watching a video of a car crash and you pause it a few seconds before
-the crash actually occurs and your job is to look at all people in the immediate vicinity and predict which of them will
-die by extracting the features found in `X_train`
+The client is very excited to roll out a new health insurance product that offers ultra-low premiums on the simple condition that deductibles are subject to change at any time.
 
-This is a very difficult predicition task using only data so don't expect your scores to be super high.
+In order for Insurance Inc. to offer the lowest premiums possible, it needs to be able to assess your risk in a traffic situation in real-time so that your deductible can be adjusted. The data needed to do this is easily obtained through a smartphone app, that customers download and install. The app transmits real-time information about the customer, and their surroundings, that are found in your dataset.
+
+This is where you come in. Using the data obtained from the smartphone app you are going to provide a probability of serious injury, for a given person in the moments before a traffic accident occurs.
+
 
 ## The dataset
 
-- Each row in the dataset corresponds to a single person, involved in a car crash.
+- Each row in the dataset corresponds to a single person, involved in a car crash, moments before it occurs.
 - The data column names and values are supposed to be quite explicit - there is no data dictionary to be supplied.
-- The entries in `y_train` are: `1=died`, and `0=survived`
-    - This means that a prediction of `1` is absolute certainty that a person will die.
+- The entries in `y_train` are: `1=serious_injury`, and `0=no_serious_injury`
+    - This means that a prediction of `1` is absolute certainty that a person suffered a serious (and expensive) injury.
 
 ## Exploring the dataset and modeling
 
-You are expected to explore and understand the dataset, and train a predictive model that outputs the *probability of death* of a person involved in a car crash.
+You are expected to explore and understand the dataset, and train a predictive model that outputs the *probability of serious injury* of a person involved in a car crash. This is a very difficult prediction task using only the given data, so don't expect your scores to be super high. 
 
 You have already taken a look at many datasets. However, good practices are always good to remember:
 * Take a good overview of the dataset before anything else - numerical variables, categorical variables, anomalies, outliers, missing values, etc. Basically, perform an Exploratory Data Analysis (EDA).  
