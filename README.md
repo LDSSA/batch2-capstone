@@ -62,7 +62,6 @@ sure that you aren't taking up any precious space for when we actually start the
 [Here is a link to the report guidelines](https://docs.google.com/document/d/1cF65SxybGCo761LohjX4Sc51bwliFm4Shwx3mv7UAhM/edit?usp=sharing)
 
 
-
 # Capstone Project Structure and Schedule
 
 This capstone project is meant to *individually* test students for the following:
@@ -77,11 +76,11 @@ This capstone project is meant to *individually* test students for the following
     - Providing predictions over time rather than kaggle-style all at once
 - Their ability to make decision on which technical tools to use considering the problem in hands.
 
-This is quite different from the previous specializations because they will not be able to submit as many times as they want nor work in teams where they can mask an understanding of the material by brute-forcing search or blending into a crowd. 
+This is quite different from the previous specializations because you will not be able to submit as many times. 
 
-This specialization will be the primary way in which we may certify them as entry level data scientists so it is very important that this capstone is both difficult and fair.
+This specialization will be the primary way in which we may certify you as entry level data scientists so it is very important that this capstone is both difficult and fair.
 
-Another thing to note is that the EDA and model development portion of this project is not the primary focus of this specialization. *They should already know how to do this*. It should NOT take a long time to do EDA and train a model that performs quite well.
+Another thing to note is that the EDA and model development portion of this project is not the primary focus of this specialization. *You should already know how to do this*. It should NOT take a long time to do EDA and train a model that performs acceptably.
 
 ## Components
 
