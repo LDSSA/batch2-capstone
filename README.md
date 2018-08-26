@@ -35,7 +35,7 @@ Follow the guidelines for [deploying a model on heroku](https://github.com/LDSSA
 `test-server.py` script to test your deployment. What you'll want to do is start your server and then run 
 `python test-server.py`. There are a few options to use with it. Here are a few examples of how to use the script:
 
-```bash
+```sh
 # This assumes that you have a file called X_train.csv in the data directory
 # and you have started your server on your localhost because you are developing it
 python test-server.py "data/X_train.csv" "http://127.0.0.1:5000/"
