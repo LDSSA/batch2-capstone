@@ -95,7 +95,6 @@ Another thing to note is that the EDA and model development portion of this proj
 This should be a binary classification dataset that we can logically split into the following parts:
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vR9XZmccYWwLYMl6LVUIrL2BW3HRU-KXbEyXx5ui2cU3n9iAFltBe8OJa-0WZ3Xaepvf6fcmKLkWe7k/pub?w=1440&amp;h=1080">
-
 With the following additional requirements
 
 - `X_test_1` and `X_test_2` must contain both numerical and categorical values that `X_train` did not have
