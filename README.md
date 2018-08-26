@@ -100,7 +100,7 @@ With a work breakdown estimate of the following
 1. ? - Calculating the `roc_auc_score` of each of the student models
 1. As many of us as possible - Grading the reports
 
-# Brief - Predicting vehicle crash survival
+# Brief - Predicting serious injury
 
 It's 2028, and you are on a new assignment with a new client called Insurance Inc.  
 
