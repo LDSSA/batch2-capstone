@@ -1,4 +1,6 @@
-# Brief - Predicting serious injury
+# Batch 2 - Capstone: Predicting serious injury
+
+## Brief 
 
 It's 2028, and you are on a new assignment with a new client called Insurance Inc.  
 
