@@ -138,6 +138,14 @@ God willing, by the time we finish, we will have 30-40 more students that have s
 
 You should follow the report [guidelines](https://docs.google.com/spreadsheets/d/1K8X7xNIi7CKIjtO2bEqWKxMhrRLKBYAHDJGwrg2cwjo/edit?usp=sharing). You can find the grading components in that document.
 
+### Minimum requirements to count toward graduation
+
+The capstone is one of the most single important pieces of work that is turned in by the student. In order for the work to count toward the [graduation requirements](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course)#graduation-requirements), the students must
+- Cover all points required in the reports
+    - Note that since the grading sheet that we will be using is given to you ahead of time, requirement is 100% coverage of the topics. 
+- Your deployed server must return predictions for 80% of the requests sent to your server
+    - This is nowhere near good enough for a real production system but since this is your first time at it, we'll be kind :)
+
 ## Schedule
 
 Taken from [this spreadsheet](https://docs.google.com/spreadsheets/d/1XPbv9QSuy0nsCJUU6aKg7kTma_dRmQkZ1B1N-igvLZE/edit?usp=sharing), here is a breakdown of what components of the capstone will be covered on which days:
