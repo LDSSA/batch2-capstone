@@ -57,7 +57,7 @@ python test-server.py "final_datasets/X_train.csv" "https://deployed-model.herok
 You only have 10K rows on the free tier of heroku so after testing, you will want to clear out your database to make
 sure that you aren't taking up any precious space for when we actually start the simulator!
 
-### Once more
+### Report Guidelines
 
 [Here is a link to the report guidelines](https://docs.google.com/document/d/1cF65SxybGCo761LohjX4Sc51bwliFm4Shwx3mv7UAhM/edit?usp=sharing)
 
