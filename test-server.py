@@ -26,6 +26,9 @@ X_test = pd.read_csv(
     n=args.n_samples, random_state=args.random_state
 )
 
+server = args.server.rstrip('/')
+    
+
 results = []
 for i, obs in X_test.iterrows():
     payload = {
@@ -33,7 +36,7 @@ for i, obs in X_test.iterrows():
         'observation': obs.to_dict()
     }
     results.append(requests.post(
-        '{}predict'.format(args.server),
+        '{}/predict'.format(server),
         json=payload
     ))
 
