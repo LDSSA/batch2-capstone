@@ -16,7 +16,7 @@ parser.add_argument(
     '-n', '--n_samples', help='Number of samples', type=int, default=10
 )
 parser.add_argument(
-    '-r', '--random_state', help='Seed to pick samples', default=42
+    '-r', '--random_state', help='Seed to pick samples', default=42, type=int
 )
 args = parser.parse_args()
 
